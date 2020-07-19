@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-
 To pierwsza linijka wspanialego wiersza
 Wojciech El tratlalalo
-=======
 To pierwsza linijka wspanialego wiersza
 bla bla bla nowa linia
 Wojciech El tratlalalo
 Siema siema wszystkiem jestem Adas
 Daniel del piero
 Male nogi wielka rura to klasyczna jest  ma kura
->>>>>>> fdf0842032050119385f402c29cdead57903699f
+Jarek Marek
