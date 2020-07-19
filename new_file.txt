@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-Male nogi wielka rura to klasyczna jest  ma kura
-=======
-Kolejna linia tekstu 
+Male nogi wielka ręka ktoś tu klęka
 
-
-
-
-
->>>>>>> a6f5e2310a45d1dba8c7e875349dc08bd173f981
