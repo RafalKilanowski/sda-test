@@ -6,11 +6,8 @@ Wojciech El tratlalalo
 Siema siema wszystkiem jestem Adas
 Daniel del piero
 Male nogi wielka rura to klasyczna jest  ma kura
-<<<<<<< HEAD
-
-=======
 Jarek Marek
 Jarek Marek
 Michał nowa linijka
 Siema siema wszystkiem jestem Adas.
->>>>>>> 30652b6cd0bec51fd1bc2c223efab1613f433f11
+Szarym mydłem myje się... Irena... :-)
